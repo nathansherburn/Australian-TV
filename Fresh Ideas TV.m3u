@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:0,Fresh Ideas TV
+#EXTVLCOPT:program=1336
+dvb-t://frequency=177500000:inversion=0:bandwidth=7:code-rate-hp=3/4:code-rate-lp=3/4:modulation=64QAM:transmission=-1:guard=1/16:hierarchy=0

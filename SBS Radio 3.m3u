@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:0,SBS Radio 3
+#EXTVLCOPT:program=800
+dvb-t://frequency=184500000:inversion=0:bandwidth=7:code-rate-hp=3/4:code-rate-lp=0:modulation=64QAM:transmission=-1:guard=1/16:hierarchy=0
